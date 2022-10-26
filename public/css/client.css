@@ -1,0 +1,8 @@
+.container{
+    padding: 5% 10% 10% 5%;
+}
+.col{
+    background-color: rgba( 7, 230, 241, 0.5);
+    border: 2px solid rgb( 7, 124, 241);;
+    padding: 10px;
+}

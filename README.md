@@ -4,6 +4,7 @@ Após clonar o repositorio rode os comandos:
 composer install
 
 crie o banco de dados com o nome: yooperchallenge
+
 verifique se os dados de conexão no arquivo .env estão corretos
 
 rode os comandos:

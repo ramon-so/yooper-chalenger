@@ -17,4 +17,8 @@ php artisan db:seed --class=servicesSeeder
  
 
 agora no banco de datos ja tera todas as tabelas e os serviços para o formulario cadastrados
-tamb´m ja terá registrado 1 usuario para login com username = yooper e senha = yooper
+também ja terá registrado 1 usuario para login com username = yooper e senha = yooper
+
+IMPORTANTE
+
+caso o arquivo .env não apareça, terá um arquivo .env.example apenas retire o .example para que fique apenas .env e atualize os dados de conexão com o banco de dados

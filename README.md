@@ -1,3 +1,9 @@
+Foi utilizado:
+
+Laravel 9.x
+
+PHP: 8.1.1
+
 Para que o sistema funcione:
 
 Após clonar o repositorio rode os comandos: 

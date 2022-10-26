@@ -28,3 +28,5 @@ também ja terá registrado 1 usuario para login com username = yooper e senha =
 IMPORTANTE
 
 caso o arquivo .env não apareça, terá um arquivo .env.example apenas retire o .example para que fique apenas .env e atualize os dados de conexão com o banco de dados
+
+Ao acessar o sistema pela primeira vez terá o aviso do laravel que a chave de autenticação não foi gerada, deve apenas clicar em generate key na propria pagina web e recarregar a pagina
